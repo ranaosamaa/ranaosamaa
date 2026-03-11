@@ -21,7 +21,6 @@ My work mainly focuses on **data-driven applications, computer vision, and appli
 
 ---
 # 🔗 Connect With Me
----
 
 <p align="left">
 
@@ -34,7 +33,6 @@ My work mainly focuses on **data-driven applications, computer vision, and appli
 </a>
 
 </p>
----
 
 ## 🧠 Currently Exploring
 
