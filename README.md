@@ -20,6 +20,21 @@ I enjoy building intelligent systems, experimenting with ML models, and solving 
 My work mainly focuses on **data-driven applications, computer vision, and applied machine learning**.
 
 ---
+# 🔗 Connect With Me
+---
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ranaosama/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/ranaosamaa">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+---
 
 # 🤖 Machine Learning & Deep Learning
 
@@ -86,6 +101,24 @@ Experience building **full-stack applications** using both:
 
 ---
 
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/ranaosamaa">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=Electronic_component_detection&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ranaosamaa">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=Hotel-Booking&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/ranaosamaa">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=COLORMASKING&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -106,28 +139,15 @@ Experience building **full-stack applications** using both:
 
 ---
 
-# 🐍 Contribution Graph
+# 📊 GitHub Activity
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranaosamaa&theme=tokyo-night)
 
----
+# 📈 3D Contribution Graph
 
-# 🔗 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ranaosama/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/ranaosamaa">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
+![](https://github-profile-3d-contrib.vercel.app/api?username=ranaosamaa&theme=tokyonight)
 
 ---
+
 
 ⭐ **Always learning. Always building.**
