@@ -36,6 +36,15 @@ My work mainly focuses on **data-driven applications, computer vision, and appli
 </p>
 ---
 
+## 🧠 Currently Exploring
+
+- Deep Learning architectures
+- Computer Vision pipelines
+- Machine Learning system design
+- Efficient feature engineering
+
+---
+
 # 🤖 Machine Learning & Deep Learning
 
 This is my **main area of focus**.
@@ -143,9 +152,6 @@ Experience building **full-stack applications** using both:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ranaosamaa&theme=tokyo-night)
 
-# 📈 3D Contribution Graph
-
-![](https://github-profile-3d-contrib.vercel.app/api?username=ranaosamaa&theme=tokyonight)
 
 ---
 
