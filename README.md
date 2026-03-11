@@ -1,3 +1,133 @@
-Hi There! I'm Rana Osama.
-I'm a junior CS student specializing in AI. I'm currently focused on learning machine learning and deep learning fundamentals.
-Reach me at ranaosama9870@gmail.com or www.linkedin.com/in/ranaosama
+# 👋 Hi, I'm Rana Osama
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Competitive+Programmer;Computer+Vision+Explorer" />
+</p>
+
+<p align="center">
+AI Student • Machine Learning • Deep Learning • Algorithms
+</p>
+
+---
+
+# 🚀 About Me
+
+🎓 Computer Science Student specializing in **Artificial Intelligence**
+🤖 Passionate about **Machine Learning and Deep Learning**
+🧠 Strong background in **Algorithms, Data Structures, and Problem Solving**
+
+I enjoy building intelligent systems, experimenting with ML models, and solving challenging algorithmic problems.
+My work mainly focuses on **data-driven applications, computer vision, and applied machine learning**.
+
+---
+
+# 🤖 Machine Learning & Deep Learning
+
+This is my **main area of focus**.
+
+### Tools & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas" />
+</p>
+
+
+### Areas of Interest
+
+* Deep Learning
+* Computer Vision
+* Data preprocessing & feature engineering
+* Model training & evaluation
+* Applied Machine Learning systems
+
+---
+
+# 🧠 Algorithms & Problem Solving
+
+I enjoy solving algorithmic challenges and improving problem-solving skills.
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java" />
+</p>
+
+### Core Knowledge
+
+* Data Structures
+* Algorithm Design
+* Competitive Programming
+* Object-Oriented Programming
+
+I also help mentor students through **ACPC MIU** to strengthen their problem-solving abilities.
+
+---
+
+# 🌐 Additional Development Experience
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,php,mysql" />
+</p>
+
+Experience building **full-stack applications** using both:
+
+* **JavaScript stack** (Node.js + MongoDB)
+* **PHP stack** (PHP + MySQL)
+
+---
+
+# 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ranaosamaa&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaosamaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ranaosamaa&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ranaosama/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/ranaosamaa">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+⭐ **Always learning. Always building.**
