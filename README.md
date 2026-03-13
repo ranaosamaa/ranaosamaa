@@ -113,11 +113,11 @@ Experience building **full-stack applications** using both:
 </a>
 
 <a href="https://github.com/ranaosamaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=Hotel-Booking&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=COLORMASKING&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/ranaosamaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=COLORMASKING&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=Hotel-Booking&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
