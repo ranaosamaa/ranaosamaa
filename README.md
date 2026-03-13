@@ -109,7 +109,7 @@ Experience building **full-stack applications** using both:
 <p align="center">
 
 <a href="https://github.com/ranaosamaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=Electronic_component_detection&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=laptop-price-predictor&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/ranaosamaa">
