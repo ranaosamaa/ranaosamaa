@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Rana Osama
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Deep+Learning+Enthusiast;Competitive+Programmer;Computer+Vision+Explorer" />
-</p>
-
-<p align="center">
 AI Student • Machine Learning • Deep Learning • Algorithms
 </p>
 
