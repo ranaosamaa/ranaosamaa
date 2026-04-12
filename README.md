@@ -104,35 +104,6 @@ Experience building **full-stack applications** using both:
 
 ---
 
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/ranaosamaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=laptop-price-predictor&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ranaosamaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=COLORMASKING&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/ranaosamaa">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranaosamaa&repo=Hotel-Booking&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ranaosamaa&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaosamaa&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
----
 
 # 📈 GitHub Activity
 
